@@ -1,4 +1,4 @@
-// @ts-ignore
+// @ts-expect-error
 
 import { DemoSection } from "@/components/demo-section"
 import { fetchContent } from "@croct/plug-next/server"
