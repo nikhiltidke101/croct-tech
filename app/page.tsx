@@ -1,4 +1,4 @@
-// @ts-expect-error
+// @ts-expect-error: some randoom eror
 
 import { DemoSection } from "@/components/demo-section"
 import { fetchContent } from "@croct/plug-next/server"
