@@ -1,0 +1,33 @@
+{
+  "demo-section": [
+    {
+      "version": 1,
+      "content": {
+        "en-us": {
+          "_component": "content-section@1",
+          "topics": [
+            {
+              "title": "Variant A",
+              "description": "Original content and experiment baseline."
+            },
+            {
+              "title": "Variant B",
+              "description": "Alternate content different button label and color."
+            }
+          ],
+          "buttons": {
+            "reset": "Reset and resort experiment",
+            "track": "Track my click"
+          },
+          "heading": "AB testing with Croct",
+          "variant": {
+            "name": "?",
+            "color": "#4f39f6"
+          },
+          "preTitle": "Headless experimentation",
+          "description": "This page displays one of two variants, chosen at random with equal probability."
+        }
+      }
+    }
+  ]
+}
