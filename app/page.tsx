@@ -1,3 +1,5 @@
+// @ts-ignore
+
 import { DemoSection } from "@/components/demo-section"
 import { fetchContent } from "@croct/plug-next/server"
 
